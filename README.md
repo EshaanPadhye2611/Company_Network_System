@@ -28,3 +28,5 @@ Cisco Packet Tracer: Utilized for network simulation, design, and troubleshootin
 Cisco Networking Equipment: Routers, multilayer switches, and wireless access points to ensure robust connectivity and performance.
 
 Security Implementations: ACLs, SSH, OSPF, and VLAN configurations to secure network data and manage access controls efficiently.
+
+Download the Cisco Packet tracer from its official site and then open this file to run securely the project.
